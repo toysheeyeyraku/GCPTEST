@@ -1,0 +1,22 @@
+{
+  "name": "cgtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toysheeyeyraku/GCPTEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toysheeyeyraku/GCPTEST/issues"
+  },
+  "homepage": "https://github.com/toysheeyeyraku/GCPTEST#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
