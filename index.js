@@ -6,6 +6,6 @@ app.get('/', (req, res)=> {
     res.send("HI FROM JS")
 })
 
-app.listen(3000, () =>{
+app.listen(8080, () =>{
     console.log('Server is up')
 });
